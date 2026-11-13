@@ -1,0 +1,45 @@
+{
+  "refreshed_utc": "2026-11-13T03:36:09.974957+00:00",
+  "scope": "2023-2026 QB/RB/WR/TE, regular + postseason rows, excludes K/DEF from scoring",
+  "scoring": "Standard: 0.04/pass yard, 4/pass TD, -2/INT, 0.1/rush & rec yard, 6/rush & rec TD, -2/fumble lost, 2/2-point conversion; +0.5 or +1 per reception",
+  "sources": [
+    {
+      "source": "nflverse",
+      "year": 2023,
+      "status": "ok",
+      "input_rows": 18643,
+      "included_qb_rb_wr_te_rows": 6071,
+      "url": "https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_2023.csv"
+    },
+    {
+      "source": "nflverse",
+      "year": 2024,
+      "status": "ok",
+      "input_rows": 18983,
+      "included_qb_rb_wr_te_rows": 6141,
+      "url": "https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_2024.csv"
+    },
+    {
+      "source": "nflverse",
+      "year": 2025,
+      "status": "ok",
+      "input_rows": 19422,
+      "included_qb_rb_wr_te_rows": 6321,
+      "url": "https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_2025.csv"
+    },
+    {
+      "source": "nflverse",
+      "year": 2026,
+      "status": "ok",
+      "input_rows": 9464,
+      "included_qb_rb_wr_te_rows": 3039,
+      "url": "https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_2026.csv"
+    },
+    {
+      "source": "Sleeper",
+      "status": "ok",
+      "player_count": 4266,
+      "url": "https://api.sleeper.app/v1/players/nfl"
+    }
+  ]
+}
