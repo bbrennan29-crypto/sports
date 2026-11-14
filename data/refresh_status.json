@@ -1,5 +1,5 @@
 {
-  "refreshed_utc": "2026-11-13T13:36:27.731715+00:00",
+  "refreshed_utc": "2026-11-14T13:19:15.448977+00:00",
   "scope": "2023-2026 QB/RB/WR/TE, regular + postseason rows, excludes K/DEF from scoring",
   "scoring": "Standard: 0.04/pass yard, 4/pass TD, -2/INT, 0.1/rush & rec yard, 6/rush & rec TD, -2/fumble lost, 2/2-point conversion; +0.5 or +1 per reception",
   "sources": [
