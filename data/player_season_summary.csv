@@ -1856,9 +1856,9 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2026,00-0032268,Marcus Mariota,QB,WAS,3,34.5,11.5,0.0,0.0,7.0
 2026,00-0032385,Sterling Shepard,WR,NYJ,2,3.3,1.65,2.0,1.0,0.0
 2026,00-0032392,Austin Hooper,TE,ATL,7,24.4,3.49,12.0,10.0,0.0
-2026,00-0032398,Chris Moore,WR,BAL,3,15.3,5.1,6.0,3.0,0.0
+2026,00-0032398,Chris Moore,WR,BAL,4,15.3,3.83,7.0,3.0,0.0
 2026,00-0032464,Kalif Raymond,WR,CHI,9,70.7,7.86,41.0,32.0,2.0
-2026,00-0032764,Derrick Henry,RB,BAL,9,144.28,16.03,14.0,12.0,175.0
+2026,00-0032764,Derrick Henry,RB,BAL,10,163.28,16.33,19.0,17.0,185.0
 2026,00-0032775,Demarcus Robinson,WR,SF,3,24.6,8.2,10.0,8.0,0.0
 2026,00-0032950,Carson Wentz,QB,MIN,3,24.78,8.26,0.0,0.0,9.0
 2026,00-0032951,Laquon Treadwell,WR,IND,10,48.9,4.89,32.0,19.0,0.0
@@ -1867,6 +1867,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2026,00-0033106,Jared Goff,QB,DET,9,169.78,18.86,0.0,0.0,20.0
 2026,00-0033110,Tyler Higbee,TE,LA,9,73.4,8.16,43.0,31.0,0.0
 2026,00-0033119,Jacoby Brissett,QB,ARI,8,111.16,13.89,1.0,1.0,29.0
+2026,00-0033119,Jacoby Brissett,QB,BAL,1,11.8,11.8,0.0,0.0,2.0
 2026,00-0033217,Mo Alie-Cox,TE,IND,4,13.1,3.27,6.0,4.0,0.0
 2026,00-0033246,Johnny Mundt,TE,PHI,5,5.6,1.12,6.0,4.0,0.0
 2026,00-0033280,Christian McCaffrey,RB,SF,9,215.0,23.89,49.0,40.0,115.0
@@ -1907,7 +1908,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2026,00-0034487,Trent Sherfield,WR,BUF,1,0.0,0.0,0.0,0.0,0.0
 2026,00-0034577,Kyle Allen,QB,BUF,3,-0.6,-0.2,0.0,0.0,7.0
 2026,00-0034613,Tanner Hudson,TE,CIN,4,16.3,4.08,7.0,7.0,0.0
-2026,00-0034753,Mark Andrews,TE,BAL,9,60.7,6.74,43.0,31.0,2.0
+2026,00-0034753,Mark Andrews,TE,BAL,10,76.9,7.69,51.0,39.0,2.0
 2026,00-0034771,Mason Rudolph,QB,PIT,3,1.08,0.36,0.0,0.0,4.0
 2026,00-0034796,Lamar Jackson,QB,BAL,5,81.08,16.22,0.0,0.0,19.0
 2026,00-0034798,Durham Smythe,TE,BAL,3,1.4,0.47,2.0,1.0,0.0
@@ -1920,7 +1921,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2026,00-0034857,Josh Allen,QB,BUF,9,225.02,25.0,1.0,1.0,66.0
 2026,00-0034869,Sam Darnold,QB,SEA,7,92.32,13.19,0.0,0.0,11.0
 2026,00-0034960,Jakobi Meyers,WR,JAX,9,82.0,9.11,43.0,29.0,2.0
-2026,00-0034975,Justice Hill,RB,BAL,9,61.1,6.79,28.0,20.0,33.0
+2026,00-0034975,Justice Hill,RB,BAL,10,69.9,6.99,35.0,25.0,36.0
 2026,00-0034981,Foster Moreau,TE,HOU,6,36.2,6.03,14.0,11.0,0.0
 2026,00-0035021,Ashton Dulin,WR,IND,6,23.0,3.83,11.0,5.0,2.0
 2026,00-0035039,Stephen Carlson,TE,CHI,1,0.0,0.0,0.0,0.0,0.0
@@ -1971,7 +1972,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2026,00-0036309,Darnell Mooney,WR,NYG,9,34.3,3.81,31.0,14.0,4.0
 2026,00-0036322,Justin Jefferson,WR,MIN,8,111.6,13.95,64.0,40.0,1.0
 2026,00-0036331,Devin Duvernay,WR,ARI,10,11.7,1.17,7.0,6.0,0.0
-2026,00-0036355,Justin Herbert,QB,LAC,8,84.64,10.58,1.0,0.0,34.0
+2026,00-0036355,Justin Herbert,QB,LAC,9,100.9,11.21,1.0,0.0,41.0
 2026,00-0036358,CeeDee Lamb,WR,DAL,10,224.0,22.4,121.0,77.0,2.0
 2026,00-0036387,Jalen Reagor,WR,MIA,1,0.0,0.0,1.0,0.0,0.0
 2026,00-0036389,Jalen Hurts,QB,PHI,5,80.02,16.0,0.0,0.0,23.0
@@ -1984,7 +1985,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2026,00-0036442,Joe Burrow,QB,CIN,9,234.3,26.03,0.0,0.0,24.0
 2026,00-0036463,Chris Blair,WR,ATL,8,7.2,0.9,9.0,2.0,0.0
 2026,00-0036510,Kenny Yeboah,TE,ARI,1,0.0,0.0,0.0,0.0,0.0
-2026,00-0036550,Rashod Bateman,WR,BAL,9,55.4,6.16,31.0,20.0,0.0
+2026,00-0036550,Rashod Bateman,WR,BAL,10,62.6,6.26,36.0,23.0,0.0
 2026,00-0036554,Nico Collins,WR,HOU,7,116.0,16.57,55.0,37.0,2.0
 2026,00-0036555,Chuba Hubbard,RB,CAR,9,180.8,20.09,36.0,31.0,161.0
 2026,00-0036556,Brevin Jordan,TE,HOU,5,3.2,0.64,2.0,2.0,0.0
@@ -2078,7 +2079,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2026,00-0037840,Kyren Williams,RB,LA,10,168.3,16.83,51.0,38.0,139.0
 2026,00-0038040,Zamir White,RB,NO,1,0.5,0.5,0.0,0.0,1.0
 2026,00-0038041,Jake Ferguson,TE,DAL,8,56.6,7.08,27.0,19.0,0.0
-2026,00-0038046,Charlie Kolar,TE,LAC,6,26.2,4.37,20.0,13.0,1.0
+2026,00-0038046,Charlie Kolar,TE,LAC,7,29.8,4.26,23.0,15.0,1.0
 2026,00-0038090,Skyy Moore,WR,GB,6,10.5,1.75,14.0,7.0,0.0
 2026,00-0038098,Pierre Strong,RB,GB,4,22.0,5.5,12.0,10.0,25.0
 2026,00-0038102,Kenny Pickett,QB,CAR,3,5.38,1.79,0.0,0.0,3.0
@@ -2099,7 +2100,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2026,00-0038409,Lew Nichols III,RB,PIT,6,6.1,1.02,1.0,1.0,8.0
 2026,00-0038416,Tyson Bagent,QB,CHI,3,12.16,4.05,0.0,0.0,7.0
 2026,00-0038440,Zavier Scott,RB,CHI,4,0.0,0.0,0.0,0.0,0.0
-2026,00-0038454,Keaton Mitchell,RB,LAC,8,52.1,6.51,22.0,18.0,46.0
+2026,00-0038454,Keaton Mitchell,RB,LAC,9,52.5,5.83,23.0,18.0,49.0
 2026,00-0038476,Tommy DeVito,QB,NE,3,9.38,3.13,0.0,0.0,5.0
 2026,00-0038488,Brady Russell,RB,SEA,7,7.0,1.0,3.0,3.0,0.0
 2026,00-0038489,Ben VanSumeren,RB,KC,2,0.0,0.0,0.0,0.0,0.0
@@ -2108,7 +2109,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2026,00-0038519,Nikko Remigio,WR,KC,8,0.0,0.0,0.0,0.0,0.0
 2026,00-0038542,Bijan Robinson,RB,ATL,10,197.7,19.77,45.0,35.0,185.0
 2026,00-0038543,Jaxon Smith-Njigba,WR,SEA,10,263.16,26.32,109.0,79.0,3.0
-2026,00-0038544,Quentin Johnston,WR,LAC,7,45.8,6.54,30.0,13.0,3.0
+2026,00-0038544,Quentin Johnston,WR,LAC,8,47.4,5.92,31.0,14.0,3.0
 2026,00-0038547,Luke Schoonmaker,TE,DAL,4,8.2,2.05,5.0,4.0,0.0
 2026,00-0038551,Kendre Miller,RB,NO,6,40.6,6.77,13.0,9.0,57.0
 2026,00-0038555,Tank Bigsby,RB,PHI,4,19.1,4.78,4.0,3.0,28.0
@@ -2116,7 +2117,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2026,00-0038559,Michael Wilson,WR,ARI,9,120.68,13.41,88.0,51.0,3.0
 2026,00-0038563,Tre Tucker,WR,LV,10,111.2,11.12,58.0,34.0,2.0
 2026,00-0038564,Cameron Latu,TE,NE,5,0.0,0.0,0.0,0.0,0.0
-2026,00-0038573,Derius Davis,WR,LAC,8,10.5,1.31,5.0,2.0,1.0
+2026,00-0038573,Derius Davis,WR,LAC,9,10.5,1.17,5.0,2.0,1.0
 2026,00-0038576,Charlie Jones,WR,NYG,6,8.6,1.43,3.0,2.0,0.0
 2026,00-0038597,Chase Brown,RB,CIN,9,133.7,14.86,54.0,47.0,113.0
 2026,00-0038606,Parker Washington,WR,JAX,9,137.8,15.31,64.0,36.0,2.0
@@ -2160,7 +2161,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2026,00-0039041,Elijah Higgins,TE,ARI,8,40.2,5.03,20.0,18.0,0.0
 2026,00-0039050,Payne Durham,TE,TB,3,1.5,0.5,2.0,1.0,0.0
 2026,00-0039062,Jonathan Mingo,WR,DAL,7,9.3,1.33,11.0,4.0,0.0
-2026,00-0039064,Zay Flowers,WR,BAL,8,127.5,15.94,64.0,43.0,6.0
+2026,00-0039064,Zay Flowers,WR,BAL,9,140.9,15.66,71.0,49.0,6.0
 2026,00-0039065,Sam LaPorta,TE,DET,9,95.7,10.63,53.0,36.0,1.0
 2026,00-0039066,Michael Mayer,TE,LV,10,87.6,8.76,49.0,41.0,1.0
 2026,00-0039067,Rashee Rice,WR,KC,6,79.4,13.23,38.0,30.0,0.0
@@ -2187,7 +2188,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2026,00-0039373,Audric Estime,RB,CLE,1,7.9,7.9,0.0,0.0,9.0
 2026,00-0039373,Audric Estime,RB,NO,2,16.8,8.4,2.0,2.0,22.0
 2026,00-0039384,Tyrone Tracy Jr.,RB,NYG,7,33.9,4.84,7.0,5.0,19.0
-2026,00-0039391,Kimani Vidal,RB,LAC,7,43.8,6.26,17.0,10.0,36.0
+2026,00-0039391,Kimani Vidal,RB,LAC,8,47.2,5.9,19.0,12.0,38.0
 2026,00-0039398,Joe Milton III,QB,PHI,1,15.16,15.16,0.0,0.0,9.0
 2026,00-0039405,Jawhar Jordan,RB,HOU,1,12.0,12.0,1.0,1.0,6.0
 2026,00-0039407,Dylan Laube,RB,LV,10,12.4,1.24,4.0,4.0,5.0
@@ -2243,7 +2244,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2026,00-0040009,Savion Williams,WR,GB,5,37.0,7.4,15.0,13.0,8.0
 2026,00-0040014,Kyle McCord,QB,MIA,1,14.76,14.76,0.0,0.0,2.0
 2026,00-0040024,Darius Cooper,WR,PHI,9,57.0,6.33,32.0,13.0,0.0
-2026,00-0040075,LaJohntay Wester,WR,BAL,9,10.8,1.2,6.0,5.0,0.0
+2026,00-0040075,LaJohntay Wester,WR,BAL,10,10.8,1.08,6.0,5.0,0.0
 2026,00-0040078,Brashard Smith,RB,KC,2,1.4,0.7,1.0,1.0,0.0
 2026,00-0040081,Jake Briningstool,TE,KC,6,7.8,1.3,7.0,4.0,0.0
 2026,00-0040122,Ashton Jeanty,RB,LV,10,149.7,14.97,59.0,46.0,123.0
@@ -2264,7 +2265,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2026,00-0040179,DJ Giddens,RB,IND,1,4.3,4.3,0.0,0.0,6.0
 2026,00-0040184,KeAndre Lambert-Smith,WR,LAC,3,14.2,4.73,13.0,6.0,0.0
 2026,00-0040187,Mitchell Evans,TE,CAR,9,26.8,2.98,15.0,12.0,1.0
-2026,00-0040189,Oronde Gadsden II,TE,LAC,8,42.4,5.3,29.0,19.0,1.0
+2026,00-0040189,Oronde Gadsden II,TE,LAC,9,44.1,4.9,30.0,20.0,1.0
 2026,00-0040194,Jackson Hawes,TE,BUF,6,3.5,0.58,4.0,2.0,0.0
 2026,00-0040198,Ollie Gordon II,RB,MIA,8,95.1,11.89,15.0,11.0,127.0
 2026,00-0040205,Kalel Mullings,RB,TEN,1,0.3,0.3,0.0,0.0,1.0
@@ -2280,7 +2281,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2026,00-0040265,Ja'Seem Reed,WR,CAR,1,0.0,0.0,1.0,0.0,0.0
 2026,00-0040277,Jahdae Walker,WR,CHI,6,7.1,1.18,2.0,1.0,0.0
 2026,00-0040298,Andrew Armstrong,WR,KC,5,14.9,2.98,5.0,3.0,0.0
-2026,00-0040311,Theo Wease Jr.,WR,LAC,2,6.7,3.35,4.0,3.0,0.0
+2026,00-0040311,Theo Wease Jr.,WR,LAC,3,6.7,2.23,5.0,3.0,0.0
 2026,00-0040331,Patrick Herbert,TE,LAC,1,0.0,0.0,0.0,0.0,0.0
 2026,00-0040352,Coleman Owen,WR,GB,4,0.0,0.0,0.0,0.0,0.0
 2026,00-0040363,Keleki Latu,TE,BUF,8,9.5,1.19,1.0,1.0,0.0
@@ -2313,7 +2314,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2026,00-0040646,Jalen Royals,WR,KC,9,20.3,2.26,14.0,8.0,0.0
 2026,00-0040648,Tory Horton,WR,SEA,6,29.5,4.92,19.0,10.0,0.0
 2026,00-0040663,Harold Fannin Jr.,TE,CLE,10,122.4,12.24,62.0,44.0,0.0
-2026,00-0040666,Omarion Hampton,RB,LAC,8,72.2,9.03,13.0,11.0,102.0
+2026,00-0040666,Omarion Hampton,RB,LAC,9,89.7,9.97,15.0,12.0,124.0
 2026,00-0040667,Matthew Golden,WR,GB,10,175.9,17.59,101.0,58.0,1.0
 2026,00-0040668,Shedeur Sanders,QB,CLE,3,22.76,7.59,0.0,0.0,10.0
 2026,00-0040669,Isaac TeSlaa,WR,DET,8,41.5,5.19,28.0,13.0,0.0
@@ -2322,7 +2323,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2026,00-0040705,Chimere Dike,WR,TEN,9,33.5,3.72,16.0,13.0,1.0
 2026,00-0040715,Cam Skattebo,RB,NYG,7,99.6,14.23,17.0,14.0,116.0
 2026,00-0040719,Bhayshul Tuten,RB,JAX,9,147.5,16.39,20.0,18.0,148.0
-2026,00-0040727,Tre Harris,WR,LAC,7,47.2,6.74,35.0,21.0,0.0
+2026,00-0040727,Tre Harris,WR,LAC,8,60.8,7.6,40.0,26.0,0.0
 2026,00-0040729,Jack Bech,WR,LV,4,20.7,5.17,15.0,8.0,0.0
 2026,00-0040730,RJ Harvey,RB,DEN,6,67.4,11.23,28.0,25.0,24.0
 2026,00-0040734,TreVeyon Henderson,RB,NE,6,35.8,5.97,7.0,5.0,52.0
@@ -2335,12 +2336,12 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2026,00-0040784,Quinshon Judkins,RB,CLE,9,108.2,12.02,29.0,25.0,126.0
 2026,00-0040785,Dohnte Meyers,WR,CIN,9,52.8,5.87,28.0,20.0,2.0
 2026,00-0040867,Makai Lemon,WR,PHI,9,73.7,8.19,54.0,37.0,1.0
-2026,00-0040870,Ja'Kobi Lane,WR,BAL,5,17.9,3.58,14.0,9.0,0.0
+2026,00-0040870,Ja'Kobi Lane,WR,BAL,6,27.0,4.5,25.0,12.0,0.0
 2026,00-0040876,Elijah Sarratt,WR,BAL,1,2.3,2.3,2.0,1.0,0.0
 2026,00-0040878,Mike Washington Jr.,RB,LV,10,41.3,4.13,7.0,4.0,79.0
 2026,00-0040879,Matthew Hibner,TE,BAL,6,19.5,3.25,8.0,6.0,0.0
 2026,00-0040886,Nicholas Singleton,RB,TEN,2,1.2,0.6,0.0,0.0,7.0
-2026,00-0040887,Josh Cuevas,TE,BAL,7,29.4,4.2,13.0,10.0,0.0
+2026,00-0040887,Josh Cuevas,TE,BAL,8,36.1,4.51,16.0,13.0,0.0
 2026,00-0040890,Cyrus Allen,WR,KC,7,23.9,3.41,14.0,7.0,0.0
 2026,00-0040894,Malik Benson,WR,LV,7,2.4,0.34,9.0,2.0,1.0
 2026,00-0040930,Camden Brown,WR,DAL,2,0.0,0.0,0.0,0.0,0.0
