@@ -69,7 +69,7 @@ WAS,,,DEF,WAS,,,,,
 3033,,Adam Drake,WR,,Inactive,,,,
 3712,,Adam Fuehne,TE,,Inactive,,,25,86
 2822,00-0032009,Adam Humphries,WR,,Active,,,30,27
-13302,,Adam Randall,RB,BAL,Inactive,,,22,23
+13302,,Adam Randall,RB,BAL,Active,,,22,23
 4085,00-0033896,Adam Shaheen,TE,,Inactive,,,28,80
 1689,00-0030035,Adam Thielen,WR,,Active,NA,,35,16
 6869,,Adam Trautman,TE,DEN,Active,,,29,82
@@ -347,7 +347,7 @@ WAS,,,DEF,WAS,,,,,
 1263,,Bernard Pierce,RB,,Inactive,,,29,30
 2175,00-0030743,Bernard Reedy,WR,,Inactive,,,30,18
 8033,,Bernhard Seikovits,TE,,Active,,,27,47
-12490,,Bhayshul Tuten,RB,JAX,Active,,,23,33
+12490,,Bhayshul Tuten,RB,JAX,Active,Questionable,,23,33
 9509,,Bijan Robinson,RB,ATL,Active,,,24,7
 818,00-0028064,Bilal Powell,RB,,Active,,,33,29
 450,,Billy Bajema,TE,,Inactive,,,34,86
@@ -386,7 +386,7 @@ WAS,,,DEF,WAS,,,,,
 1481,,Brad Sorensen,QB,,Inactive,,,32,4
 2803,00-0031818,Bradley Marquez,WR,,Inactive,,,29,12
 1269,00-0029091,Bradley Sowell,TE,,Active,,,32,85
-13658,,Brady Boyd,WR,MIA,Active,,,24,83
+13658,,Brady Boyd,WR,MIA,Active,,,24,84
 12538,,Brady Cook,QB,MIA,Active,,,25,15
 671,,Brady Quinn,QB,,Inactive,,,32,7
 11280,,Brady Russell,RB,SEA,Active,,,28,38
@@ -471,7 +471,7 @@ WAS,,,DEF,WAS,,,,,
 6037, 00-0034955,Brett Rypien,QB,LV,Active,,,30,8
 14017,,Brett Weaver,TE,,Active,,,,
 12220,,Brevin Easton,WR,,Active,,,24,
-7568,,Brevin Jordan,TE,HOU,Active,Questionable,,26,9
+7568,,Brevin Jordan,TE,HOU,Active,Out,,26,9
 11593,,Brevyn Spann-Ford,TE,DAL,Active,,,26,89
 5287,,Brian Bridgewater,TE,,Inactive,,,,85
 4569,00-0033655,Brian Brown,WR,,Active,,,27,3
@@ -539,7 +539,7 @@ WAS,,,DEF,WAS,,,,,
 2007,,Bryn Renner,QB,,Inactive,,,30,8
 12799,,Bryson Green,WR,,Active,,,23,39
 12941,,Bryson Nesbit,TE,,Active,,,24,83
-11748,,Bub Means,WR,,Active,,,25,45
+11748,,Bub Means,WR,ARI,Active,,,25,32
 4184,00-0033966,Bucky Hodges,TE,,Active,,,26,
 11584,,Bucky Irving,RB,TB,Active,,,24,7
 2502,,Bud Sasser,WR,,Active,,,,81
@@ -565,7 +565,7 @@ WAS,,,DEF,WAS,,,,,
 6359, 00-0035206,C.J. Worton,WR,,Active,,,25,7
 13270,,CJ Daniels,WR,LAR,Active,,,24,6
 12984,,CJ Dippre,TE,TB,Active,,,24,82
-13277,,CJ Donaldson,RB,NO,Active,Questionable,,22,43
+13277,,CJ Donaldson,RB,NO,Active,,,22,43
 7549,,CJ Marable,RB,,Active,,,26,37
 8187,,CJ Verdell,RB,,Active,,,23,
 13554,,CJ Williams,WR,JAX,Active,,,23,18
@@ -582,7 +582,7 @@ WAS,,,DEF,WAS,,,,,
 2020,00-0031203,Cairo Santos,K,CHI,Active,,,35,8
 4621,,Caleb Bluiett,TE,,Active,,,28,85
 12399,,Caleb Chapman,WR,,Active,,,,
-13296,,Caleb Douglas,WR,MIA,Active,,,23,7
+13296,,Caleb Douglas,WR,MIA,Active,Questionable,,23,7
 317,,Caleb Hanie,QB,,Inactive,,,32,7
 7741,,Caleb Huntley,RB,,Active,,,24,42
 12735,,Caleb Lohner,TE,DEN,Inactive,IR,,25,84
@@ -599,7 +599,7 @@ WAS,,,DEF,WAS,,,,,
 11229,,Calvin Tyler,RB,,Active,,,24,36
 6938,,Cam Akers,RB,,Active,,,26,30
 12906,,Cam Camper,WR,,Active,,,25,88
-12062,,Cam Grandy,TE,CIN,Active,,,26,85
+12062,,Cam Grandy,TE,CIN,Active,,,27,85
 12086,,Cam Johnson,WR,,Active,,,25,
 11786,,Cam Little,K,JAX,Active,,,23,39
 12688,,Cam Miller,QB,GB,Active,,,25,17
@@ -638,8 +638,8 @@ WAS,,,DEF,WAS,,,,,
 4522,00-0033599,Carlton Agudosi,WR,,Inactive,,,27,14
 534,,Carlton Mitchell,WR,,Inactive,,,29,12
 13279,,Carnell Tate,WR,TEN,Active,Questionable,,21,14
-13580,,Carsen Ryan,TE,,Active,,,23,48
-13272,,Carson Beck,QB,ARI,Active,,,23,19
+13580,,Carsen Ryan,TE,CLE,Active,,,23,48
+13272,,Carson Beck,QB,ARI,Active,,,24,19
 6365, 00-0035367,Carson Meier,TE,,Active,,,26,89
 91,00-0021429,Carson Palmer,QB,,Injured Reserve,,,40,3
 11582,,Carson Steele,RB,,Active,Questionable,,23,34
@@ -690,8 +690,8 @@ WAS,,,DEF,WAS,,,,,
 6487, 00-0035119,Charles Scarff,TE,,Inactive,,,25,85
 2223,00-0031390,Charles Sims,RB,,Injured Reserve,,,29,34
 8198,,Charleston Rambo,WR,,Inactive,,,24,43
-10228,,Charlie Jones,WR,,Active,,,28,89
-8127,,Charlie Kolar,TE,LAC,Active,,,27,88
+10228,,Charlie Jones,WR,NYG,Active,,,28,89
+8127,,Charlie Kolar,TE,LAC,Active,Questionable,,27,88
 11653,,Charlie Smyth,K,NO,Active,,,25,39
 6932,,Charlie Taumoepeau,TE,,Active,,,23,43
 698,,Charlie Whitehurst,QB,,Inactive,,,38,15
@@ -764,7 +764,7 @@ WAS,,,DEF,WAS,,,,,
 1609,,Chris Pantale,TE,,Inactive,,,31,86
 8634,,Chris Pierce,TE,,Active,,,25,48
 1033,,Chris Polk,RB,,Inactive,,,30,22
-10219,,Chris Rodriguez Jr.,RB,JAX,Active,,,27,24
+10219,,Chris Rodriguez Jr.,RB,JAX,Active,Questionable,,27,24
 7175,,Chris Rowland,WR,,Active,,,24,
 11249,,Chris Smith,RB,,Active,,,23,34
 6778,,Chris Streveler,QB,,Inactive,,,28,15
@@ -944,7 +944,7 @@ WAS,,,DEF,WAS,,,,,
 11606,,Dallin Holker,TE,,Active,,,25,85
 4322,,Dalton Crossan,RB,,Inactive,,,27,42
 7082,,Dalton Keene,TE,,Active,,,26,49
-10236,,Dalton Kincaid,TE,BUF,Active,,,27,86
+10236,,Dalton Kincaid,TE,BUF,Active,Questionable,,27,86
 7320,,Dalton Schoen,WR,,Active,,,25,
 5001,00-0034383,Dalton Schultz,TE,HOU,Active,,,30,86
 5167,,Dalton Sturm,QB,,Active,,,26,1
@@ -986,7 +986,7 @@ WAS,,,DEF,WAS,,,,,
 8225,,Daniel Bellinger,TE,TEN,Active,,,26,82
 3385,00-0032801,Daniel Braverman,WR,,Inactive,,,28,83
 2751,00-0032098,Daniel Brown,TE,,Inactive,,,29,87
-5095,00-0034161,Daniel Carlson,K,MIA,Active,,,31,10
+5095,00-0034161,Daniel Carlson,K,MIA,Active,,,31,38
 8090,,Daniel Crawford,TE,,Active,,,24,80
 277,,Daniel Fells,TE,,Inactive,,,36,85
 12311,,Daniel George,WR,,Active,,,,
@@ -1142,7 +1142,7 @@ WAS,,,DEF,WAS,,,,,
 4610,,Deante' Gray,WR,,Active,,,27,
 4146,00-0033839,Dede Westbrook,WR,,Active,,,29,80
 7893,,Dedrick Mills,RB,,Active,,,25,
-7612,,Dee Eskridge,WR,,Active,,,28,82
+7612,,Dee Eskridge,WR,MIN,Active,,,29,25
 6931,,DeeJay Dallas,RB,MIN,Active,,,28,31
 5872, 00-0035719,Deebo Samuel Sr.,WR,SF,Active,,,30,19
 13333,,Deion Burks,WR,IND,Active,,,23,80
@@ -1285,8 +1285,8 @@ WAS,,,DEF,WAS,,,,,
 5288, 00-0034611,Donnie Ernsberger,TE,TEN,Inactive,Questionable,,25,83
 12515,,Donovan Edwards,RB,,Active,,,23,36
 6824,,Donovan Peoples-Jones,WR,,Active,,,26,14
-12541,,Dont'e Thornton Jr.,WR,LV,Active,Questionable,,23,10
-12946,,Dontae Fleming,WR,NYG,Active,,,24,37
+12541,,Dont'e Thornton Jr.,WR,LV,Active,,,23,10
+12946,,Dontae Fleming,WR,NYG,Active,,,24,38
 13852,,Dontae McMillan,RB,,Active,,,25,25
 6592, 00-0035569,Dontae Strickland,RB,,Active,,,24,34
 8166,,Dontario Drummond,WR,,Active,,,26,19
@@ -1668,7 +1668,7 @@ WAS,,,DEF,WAS,,,,,
 1901,00-0030656,Isaiah Crowell,RB,,Inactive,Questionable,,29,22
 11571,,Isaiah Davis,RB,NYJ,Active,,,24,32
 4252,00-0033471,Isaiah Ford,WR,,Inactive,,,27,32
-6920,,Isaiah Hodgins,WR,PIT,Active,,,28,82
+6920,,Isaiah Hodgins,WR,,Active,,,28,82
 13773,,Isaiah Jacobs,RB,,Active,,,,
 8131,,Isaiah Likely,TE,NYG,Active,,,26,9
 4197,00-0033466,Isaiah McKenzie,WR,,Active,,,29,3
@@ -1749,7 +1749,7 @@ WAS,,,DEF,WAS,,,,,
 13846,,Jack Velling,TE,,Active,,,22,84
 12045,,Jack Westover,TE,WAS,Active,,,27,89
 6728,,Jackson Harris,TE,,Active,,,24,
-12658,,Jackson Hawes,TE,BUF,Active,,,25,85
+12658,,Jackson Hawes,TE,BUF,Active,Questionable,,25,85
 12938,,Jackson Meeks,TE,DET,Active,,,23,13
 7015,,Jacob Breeland,TE,,Active,,,25,
 13802,,Jacob Clark,QB,,Active,,,25,
@@ -1829,7 +1829,7 @@ WAS,,,DEF,WAS,,,,,
 2569,,Jake Waters,QB,,Active,,,32,
 5211,00-0034222,Jake Wieneke,WR,,Active,,,27,9
 3342,00-0032791,Jakeem Grant,WR,,Active,,,32,84
-5947, 00-0034960,Jakobi Meyers,WR,JAX,Active,,,30,3
+5947, 00-0034960,Jakobi Meyers,WR,JAX,Active,Questionable,,30,3
 12935,,Jakobie Keeney-James,WR,,Active,,,25,23
 6596,,Jalan McClendon,QB,,Active,,,,2
 11439,,Jaleel McLaughlin,RB,CLE,Active,,,26,38
@@ -1931,7 +1931,7 @@ WAS,,,DEF,WAS,,,,,
 8878,,Jared Scott,TE,,Active,,,23,
 8418,,Jared Smart,WR,,Active,,,,
 11056,,Jared Wayne,WR,MIA,Active,Questionable,,26,86
-11595,,Jared Wiley,TE,KC,Active,Out,,26,89
+11595,,Jared Wiley,TE,KC,Inactive,IR,,26,89
 9231,,Jaren Hall,QB,,Active,,,27,15
 13422,,Jaren Kanak,TE,TEN,Inactive,IR,,22,81
 7537,,Jaret Patterson,RB,DEN,Active,,,26,41
@@ -1964,7 +1964,7 @@ WAS,,,DEF,WAS,,,,,
 215,,Jason Snelling,RB,,Inactive,,,33,44
 3774,00-0032689,Jason Vander Laan,TE,,Inactive,,,29,86
 23,00-0022127,Jason Witten,TE,,Injured Reserve,,,39,
-7049,,Jauan Jennings,WR,MIN,Active,Questionable,,29,14
+7049,,Jauan Jennings,WR,MIN,Active,,,29,14
 2939,,Javess Blue,WR,,Active,,,32,10
 7563,,Javian Hawkins,RB,,Active,,,22,14
 11645,,Javon Baker,WR,,Active,,,23,83
@@ -1988,7 +1988,7 @@ WAS,,,DEF,WAS,,,,,
 11566,,Jayden Daniels,QB,WAS,Active,,,25,5
 12484,,Jayden Higgins,WR,HOU,Inactive,IR,,23,81
 10222,,Jayden Reed,WR,GB,Inactive,IR,,26,11
-13419,,Jaydn Ott,RB,KC,Active,Questionable,,23,34
+13419,,Jaydn Ott,RB,KC,Active,,,23,34
 12457,,Jaydon Blue,RB,PHI,Active,,,22,30
 3852,00-0033006,Jaydon Mickens,WR,,Active,,,30,17
 11874,,Jaylen Johnson,WR,,Active,,,25,39
@@ -2197,7 +2197,7 @@ WAS,,,DEF,WAS,,,,,
 2934,,Jonathon Rumph,WR,,Active,,,33,
 4144,00-0033858,Jonnu Smith,TE,GB,Active,,,31,18
 8628,,Jontre Kirklin,WR,,Active,,,25,84
-9756,,Jordan Addison,WR,MIN,Inactive,Out,,24,3
+9756,,Jordan Addison,WR,MIN,Active,Out,,24,3
 5032,00-0034364,Jordan Akins,TE,,Active,,,33,87
 12891,,Jordan Bly,WR,,Active,,,,
 11089,,Jordan Byrd,WR,,Active,,,23,16
@@ -2243,7 +2243,7 @@ WAS,,,DEF,WAS,,,,,
 3621, 00-0032876,Jordan Williams-Lambert,WR,,Active,,,27,
 13930,,Jordon Vaughn,RB,,Active,,,,42
 175,00-0026176,Jordy Nelson,WR,,Injured Reserve,,,36,
-13281,,Jordyn Tyson,WR,NO,Active,,,22,
+13281,,Jordyn Tyson,WR,NO,Active,Questionable,,22,
 11504,,Jose Barbon,WR,,Active,,,23,14
 7961,,Jose Borregales,K,,Active,,,24,19
 1628,,Joseph Fauria,TE,,Inactive,,,30,81
@@ -2451,7 +2451,7 @@ WAS,,,DEF,WAS,,,,,
 4622,00-0033681,Keelan Cole,WR,,Active,,,31,84
 6032, 00-0035120,Keelan Doss,WR,,Active,,,28,10
 13973,,Keelan Marion,WR,,Active,,,26,85
-1479,00-0030279,Keenan Allen,WR,SF,Active,,,34,10
+1479,00-0030279,Keenan Allen,WR,SF,Active,,,34,3
 3338,00-0033078,Keenan Reynolds,WR,,Inactive,,,28,19
 6389, 00-0035605,Keenen Brown,TE,,Active,,,26,48
 4641,,Keeon Johnson,WR,,Active,,,27,
@@ -2612,7 +2612,7 @@ WAS,,,DEF,WAS,,,,,
 7378,,Kyle Markway,TE,,Active,,,25,47
 12494,,Kyle McCord,QB,MIA,Active,,,24,14
 1299,,Kyle Miller,TE,,Inactive,,,32,86
-12534,,Kyle Monangai,RB,CHI,Active,Questionable,,24,25
+12534,,Kyle Monangai,RB,CHI,Active,,,24,25
 388,,Kyle Orton,QB,,Inactive,,,34,18
 8171,,Kyle Philips,WR,,Active,,,26,15
 7553,,Kyle Pitts Sr.,TE,ATL,Active,,,26,8
@@ -2691,7 +2691,7 @@ WAS,,,DEF,WAS,,,,,
 1408,00-0030496,Le'Veon Bell,RB,,Active,,,29,6
 13300,,Le'Veon Moss,RB,,Active,NA,,,37
 730,00-0027325,LeGarrette Blount,RB,,Injured Reserve,,,35,
-12544,,LeQuint Allen Jr.,RB,JAX,Active,,,22,5
+12544,,LeQuint Allen Jr.,RB,JAX,Active,Questionable,,22,5
 121,,LeRon McClain,RB,,Inactive,,,32,33
 676,00-0027029,LeSean McCoy,RB,,Injured Reserve,,,33,
 4418,00-0033384,LeShun Daniels,RB,,Inactive,,,26,46
@@ -2762,7 +2762,7 @@ WAS,,,DEF,WAS,,,,,
 3880,,M.J. McFarland,TE,,Active,,,29,
 12809,,Mac Dalena,WR,,Active,,,24,82
 11247,,Mac Hippenhammer,WR,,Active,,,24,14
-7527,,Mac Jones,QB,SF,Active,,,28,10
+7527,,Mac Jones,QB,SF,Active,Questionable,,28,10
 2634,00-0032048,Mack Brown,RB,,Inactive,,,30,34
 4177,00-0033555,Mack Hollins,WR,NE,Active,,,33,13
 12824,,Maddux Trujillo,K,,Active,,,23,48
@@ -2785,7 +2785,7 @@ WAS,,,DEF,WAS,,,,,
 8800,,Malik Davis,RB,DAL,Inactive,IR,,27,20
 5169,,Malik Earl,WR,,Active,,,25,
 11192,,Malik Flowers,WR,,Active,,,24,19
-11210,,Malik Heath,WR,ATL,Active,,,25,86
+11210,,Malik Heath,WR,WAS,Active,,,26,86
 6552, 00-0035031,Malik Henry,WR,,Active,,,24,7
 11080,,Malik Knowles,WR,,Active,,,25,82
 13825,,Malik McClain,WR,NYJ,Active,,,24,84
@@ -2882,7 +2882,7 @@ WAS,,,DEF,WAS,,,,,
 7286,,Marvelle Ross,WR,,Inactive,,,25,83
 4813,00-0034025,Marvin Bracy,WR,,Active,,,28,87
 3895,00-0033094,Marvin Hall,WR,,Active,,,29,14
-11628,,Marvin Harrison Jr.,WR,HOU,Active,Questionable,,24,18
+11628,,Marvin Harrison Jr.,WR,HOU,Active,Out,,24,18
 1067,00-0029293,Marvin Jones,WR,,Active,Questionable,,33,
 9494,,Marvin Mims Jr.,WR,DEN,Active,,,24,19
 59,00-0025580,Mason Crosby,K,,Active,,,39,21
@@ -2915,7 +2915,7 @@ WAS,,,DEF,WAS,,,,,
 5699,,Matt Fleming,WR,,Active,,,25,
 144,,Matt Flynn,QB,,Inactive,,,35,3
 103,00-0026184,Matt Forte,RB,,Inactive,,,34,22
-6083, 00-0035269,Matt Gay,K,LV,Active,,,32,14
+6083, 00-0035269,Matt Gay,K,LV,Active,Questionable,,32,14
 36,,Matt Hasselbeck,QB,,Inactive,,,44,8
 1821,00-0031315,Matt Hazel,WR,,Injured Reserve,,,28,83
 13324,,Matt Hibner,TE,BAL,Active,,,24,88
@@ -3404,7 +3404,7 @@ WAS,,,DEF,WAS,,,,,
 8676,,Rashid Shaheed,WR,SEA,Active,,,28,22
 7571,,Rashod Bateman,WR,BAL,Active,,,26,7
 12760,,Rashod Owens,WR,,Active,,,24,
-11575,,Ray Davis,RB,BUF,Active,,,27,7
+11575,,Ray Davis,RB,BUF,Active,Questionable,,27,7
 6691,,Ray Gene smith,RB,,Inactive,,,,20
 2870,,Ray Hamilton,TE,,Active,,,32,80
 5252,00-0034535,Ray Lawry,RB,,Active,,,25,38
@@ -3706,7 +3706,7 @@ WAS,,,DEF,WAS,,,,,
 13604,,Sincere Brown,WR,,Inactive,Questionable,,,38
 8220,,Sincere McCormick,RB,SF,Active,,,26,35
 3615,,Sione Houma,RB,,Active,,,30,
-11729,,Sione Vaki,RB,DET,Active,,,25,33
+11729,,Sione Vaki,RB,DET,Active,Questionable,,25,33
 7393,,Sirgeo Hoffman,RB,,Inactive,NA,,,
 1627,,Skye Dawson,WR,,Inactive,,,34,
 8206,,Skylar Thompson,QB,BAL,Inactive,IR,,29,11
@@ -4077,7 +4077,7 @@ WAS,,,DEF,WAS,,,,,
 9491,,Ty Scott,WR,,Active,,,25,81
 13275,,Ty Simpson,QB,LAR,Active,Out,,23,15
 7098,,Ty'Son Williams,RB,,Active,,,26,22
-9508,,Tyjae Spears,RB,TEN,Active,,,25,2
+9508,,Tyjae Spears,RB,TEN,Active,Questionable,,25,2
 11226,,Tyjon Lindsey,WR,,Active,,,24,81
 7595,,Tylan Wallace,WR,CLE,Active,,,27,16
 11357,,Tyler Adams,WR,,Active,,,25,2
@@ -4202,9 +4202,9 @@ WAS,,,DEF,WAS,,,,,
 300,,Willis McGahee,RB,,Inactive,,,35,26
 6237, 00-0035037,Wilton Speight,QB,,Active,,,27,5
 13238,,Winston Wright,WR,,Active,,,,
-12474,,Woody Marks,RB,HOU,Active,Doubtful,,25,4
+12474,,Woody Marks,RB,HOU,Active,Out,,25,4
 4490,,Wyatt Houston,TE,CAR,Active,,,23,85
-11306,,Xavier Gipson,WR,NYG,Active,,,25,47
+11306,,Xavier Gipson,WR,NYG,Active,,,25,80
 2082,00-0031035,Xavier Grimble,TE,,Active,,,29,85
 13042,,Xavier Guillory,WR,CLE,Active,,,25,88
 10218,,Xavier Hutchinson,WR,HOU,Active,,,26,19
